@@ -32,9 +32,9 @@ Coming soon...
 ### Contacts
 [Intelligent Imaging Innovation and Translation Lab](https://liulab.mgh.harvard.edu/) [[github]](https://github.com/I3Tlab) at the Athinoula A. Martinos Center of Massachusetts General Hospital and Harvard Medical School
 * Xingxin He (xihe2@mgh.harvard.edu)
-* Fang Liu (fliu12@mgh.harvard.edu)** – Corresponding Author  
+* Fang Liu (fliu12@mgh.harvard.edu)
 
 149 13th Street, Suite 2301
 Charlestown, Massachusetts 02129, USA
 
-For specific code requests, please contact the corresponding author **Fang Liu**.
+For specific code requests, please contact the authors.
